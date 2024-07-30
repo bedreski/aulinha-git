@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int function(){
     int x;
     scanf("%d", &x);
     printf("Hello World!");
